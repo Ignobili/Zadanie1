@@ -1,12 +1,2 @@
 Identifikácia emocionálnych stavov prostredníctvom merania fyziologickıch funkcií
 
-Vzrušenie u študentov poèas vyuèovacieho procesu sa môe meni na základe viacerıch  faktorov. Napríklad, keï poèas vyuèovania vyuèujúci zapôsobí na študentov zaujímavımi ukákami, èím v nich vzbudí pozitívne emócie ako sú napríklad šastie. V opaènom prípade keï vyuèovací proces nie je pre študentov pútavı, môe vies k únave.
-
-Cie¾ práce:
-Cie¾om práce bude prostredníctvom poskytnutıch  inteligentnıch zariadení (náramkov, hodiniek) zmera fyziologickú funkciu práce srdca a na ten spôsob identifikova pocit vzrušenia u študentov. Pred zmeraním funkcií bude potrebné zariadenia nakalibrova pre konkrétneho študenta, aby sa vedeli porovna vısledky v k¾udnom a vzrušenom stave. Získané údaje následne študent analyzuje a v grafickej podobe znázorní vısledky.
-
-Charakter práce: aplikaènı
-Poiadavky na obsah pod¾a charakteru práce (nemyslí sa tım šablóna, tá je daná bez oh¾adu na charakter práce): popis riešeného problému, návrh systému/hardvérového riešenia a pod. (modely, ..), metodika vıvoja/tvorby, implementácia, popis vytvoreného riešenia, testovanie;
-
-Poiadavky na vedomosti a zruènosti:
-Podrobnejšie pozna problematiku senzorickıch sietí, programátorské schopnosti, dobrá znalos anglického jazyka.
