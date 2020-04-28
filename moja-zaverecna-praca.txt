@@ -1,12 +1,14 @@
-Identifikácia emocionálnych stavov prostredníctvom merania fyziologickıch funkcií
+IdentifikÃ¡cia emocionÃ¡lnych stavov prostrednÃ­ctvom merania fyziologickÃ½ch funkciÃ­
 
-Vzrušenie u študentov poèas vyuèovacieho procesu sa môe meni na základe viacerıch  faktorov. Napríklad, keï poèas vyuèovania vyuèujúci zapôsobí na študentov zaujímavımi ukákami, èím v nich vzbudí pozitívne emócie ako sú napríklad šastie. V opaènom prípade keï vyuèovací proces nie je pre študentov pútavı, môe vies k únave.
+VzruÅ¡enie uÂ Å¡tudentov poÄas vyuÄovacieho procesu sa mÃ´Å¾e meniÅ¥ naÂ zÃ¡klade viacerÃ½ch  faktorov. NaprÃ­klad, keÄ poÄas vyuÄovania vyuÄujÃºci zapÃ´sobÃ­ naÂ Å¡tudentov zaujÃ­mavÃ½mi ukÃ¡Å¾kami, ÄÃ­m vÂ nich vzbudÃ­ pozitÃ­vne emÃ³cie ako sÃº naprÃ­klad Å¡Å¥astie. VÂ opaÄnom prÃ­pade keÄ vyuÄovacÃ­ proces nie je preÂ Å¡tudentov pÃºtavÃ½, mÃ´Å¾e viesÅ¥ kÂ Ãºnave.
 
-Cie¾ práce:
-Cie¾om práce bude prostredníctvom poskytnutıch  inteligentnıch zariadení (náramkov, hodiniek) zmera fyziologickú funkciu práce srdca a na ten spôsob identifikova pocit vzrušenia u študentov. Pred zmeraním funkcií bude potrebné zariadenia nakalibrova pre konkrétneho študenta, aby sa vedeli porovna vısledky v k¾udnom a vzrušenom stave. Získané údaje následne študent analyzuje a v grafickej podobe znázorní vısledky.
+CieÄ¾ prÃ¡ce:
+CieÄ¾om prÃ¡ce bude prostrednÃ­ctvom poskytnutÃ½ch  inteligentnÃ½ch zariadenÃ­ (nÃ¡ramkov, hodiniek) zmeraÅ¥ fyziologickÃº funkciu prÃ¡ce srdca aÂ na ten spÃ´sob identifikovaÅ¥ pocit vzruÅ¡enia uÂ Å¡tudentov. Pred zmeranÃ­m funkciÃ­ bude potrebnÃ© zariadenia nakalibrovaÅ¥ preÂ konkrÃ©tneho Å¡tudenta, aby sa vedeli porovnaÅ¥ vÃ½sledky vÂ kÄ¾udnom aÂ vzruÅ¡enom stave. ZÃ­skanÃ© Ãºdaje nÃ¡sledne Å¡tudent analyzuje aÂ v grafickej podobe znÃ¡zornÃ­ vÃ½sledky.
 
-Charakter práce: aplikaènı
-Poiadavky na obsah pod¾a charakteru práce (nemyslí sa tım šablóna, tá je daná bez oh¾adu na charakter práce): popis riešeného problému, návrh systému/hardvérového riešenia a pod. (modely, ..), metodika vıvoja/tvorby, implementácia, popis vytvoreného riešenia, testovanie;
+Charakter prÃ¡ce: aplikaÄnÃ½
+PoÅ¾iadavky naÂ obsah podÄ¾a charakteru prÃ¡ce (nemyslÃ­ sa tÃ½m Å¡ablÃ³na, tÃ¡ je danÃ¡ bez ohÄ¾adu naÂ charakter prÃ¡ce): popis rieÅ¡enÃ©ho problÃ©mu, nÃ¡vrh systÃ©mu/hardvÃ©rovÃ©ho rieÅ¡enia aÂ pod. (modely, ..), metodika vÃ½voja/tvorby, implementÃ¡cia, popis vytvorenÃ©ho rieÅ¡enia, testovanie;
 
-Poiadavky na vedomosti a zruènosti:
-Podrobnejšie pozna problematiku senzorickıch sietí, programátorské schopnosti, dobrá znalos anglického jazyka.
+PoÅ¾iadavky naÂ vedomosti aÂ zruÄnosti:
+PodrobnejÅ¡ie poznaÅ¥ problematiku senzorickÃ½ch sietÃ­, programÃ¡torskÃ© schopnosti, dobrÃ¡ znalosÅ¥ anglickÃ©ho jazyka.
+
+2020/2021
